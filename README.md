@@ -70,9 +70,8 @@ Run the scraper:
 ```
 python scraper.py
 ```
-
+# Hello gys
 The script will:
-
 1. Open Amazon
 2. Search for a product (default: `"bags"`)
 3. Scroll like a human
